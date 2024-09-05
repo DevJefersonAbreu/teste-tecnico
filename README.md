@@ -2,7 +2,7 @@
 
 Este repositório contém a solução para uma série de exercícios propostos como parte de um processo seletivo de estágio. Todos os exercícios foram feitos usando a linguagem JavaScript.
 
-link do repositório GitHub:
+link do repositório GitHub: https://github.com/DevJefersonAbreu/teste-tecnico
 
 
 ## Exercícios
